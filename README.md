@@ -1,7 +1,7 @@
 # typescript-blogging
 
 ## typescript 기본 문법
-### 블로깅 기록(그날 배운 내용 기록하기)
+### 블로깅 기록
 - [x] 2022.01.09
 
 [notion blog](https://www.notion.so/TypeScript-2aea3500d87a43178a0b28732654cf00)
