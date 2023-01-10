@@ -3,6 +3,7 @@
 ## typescript 기본 문법
 ### 블로깅 기록
 - [x] 2022.01.09
+- [x] 2022.01.10
 
 [notion blog](https://www.notion.so/TypeScript-2aea3500d87a43178a0b28732654cf00)
 
