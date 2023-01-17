@@ -6,6 +6,7 @@
 - [x] 2022.01.10
 - [x] 2022.01.12
 - [x] 2022.01.16
+- [x] 2022.01.17
 
 [notion blog](https://www.notion.so/TypeScript-2aea3500d87a43178a0b28732654cf00)
 
